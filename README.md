@@ -1,4 +1,4 @@
-# Privacy Protected Optimization Techniques
+# Privacy Protected Machine Learning Optimization
 
 This repository is the official implementation of [Name of Paper](https://link.com). 
 
