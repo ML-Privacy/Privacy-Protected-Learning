@@ -6,24 +6,23 @@ This repository is the official implementation of [Name of Paper](https://link.c
 
 ## Requirements
 
-To install requirements:
+To install requirements via anaconda utilize:
 
 ```setup
-pip install -r requirements.txt
+conda create --name venv --file requirements.txt
 ```
-
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
 
 ## Training
 
 To train the base models for comparison, run these commands:
-(train the model for the mnist and cifar10 datasets, respectively)
+
 ```train
 python Train.py mnist base
 ```
 ```train
 python Train.py cifar10 base
 ```
+> (train the model for the mnist and cifar10 datasets, respectively)
 
 
 
@@ -35,6 +34,7 @@ python Train.py mnist new
 ```train
 python Train.py cifar10 new
 ```
+>(train the model for the mnist and cifar10 datasets, respectively)
 
 ## Evaluation
 
