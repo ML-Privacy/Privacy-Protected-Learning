@@ -46,8 +46,6 @@ python DLG.py --data mnist --type base
 python DLG.py --data cifar10 --type base
 ```
 
->📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).
-
 ## Pre-trained Models
 
 You can download pretrained models here:
