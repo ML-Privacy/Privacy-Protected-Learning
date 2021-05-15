@@ -25,7 +25,6 @@ python Train.py cifar10 base
 
 
 To train the privacy protected models, run these commands:
-(train the model for the mnist and cifar10 datasets, respectively)
 ```train
 python Train.py mnist new
 python Train.py cifar10 new
