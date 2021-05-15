@@ -18,8 +18,6 @@ To train the base models for comparison, run these commands:
 
 ```train
 python Train.py mnist base
-```
-```train
 python Train.py cifar10 base
 ```
 > (train the model for the mnist and cifar10 datasets, respectively)
