@@ -9,7 +9,7 @@ This repository is the official implementation of [Name of Paper](https://link.c
 To install requirements via anaconda utilize:
 
 ```setup
-conda create --name venv --file requirements.txt
+conda create --name <name of env> --file requirements.txt
 ```
 
 ## Training
