@@ -21,20 +21,21 @@ To train the base model(s) for comparison, run these commands:
 ```train
 python Train.py mnist base
 ```
-and
 ```train
 python Train.py cifar10 base
 ```
+which trains the model for the mnist and cifar10 datasets, respectively.
+
 
 To train the privacy protected model(s), run these commands:
 
 ```train
 python Train.py mnist new
 ```
-and
 ```train
 python Train.py cifar10 new
 ```
+which trains the model for the mnist and cifar10 datasets, respectively.
 
 ## Evaluation
 
@@ -43,15 +44,14 @@ To evaluate the algorithm against DLG attacks, run these commands:
 ```eval
 python DLG.py --data mnist --type new
 ```
-and
 ```eval
 python DLG.py --data cifar10 --type new
 ```
+
 To obtain comparison results for the non-privacy base algorithm, run these commands:
 ```eval
 python DLG.py --data mnist --type base
 ```
-and
 ```eval
 python DLG.py --data cifar10 --type base
 ```
