@@ -17,25 +17,24 @@ pip install -r requirements.txt
 ## Training
 
 To train the base model(s) for comparison, run these commands:
-
+(train the model for the mnist and cifar10 datasets, respectively)
 ```train
 python Train.py mnist base
 ```
 ```train
 python Train.py cifar10 base
 ```
-which trains the model for the mnist and cifar10 datasets, respectively.
+
 
 
 To train the privacy protected model(s), run these commands:
-
+(train the model for the mnist and cifar10 datasets, respectively)
 ```train
 python Train.py mnist new
 ```
 ```train
 python Train.py cifar10 new
 ```
-which trains the model for the mnist and cifar10 datasets, respectively.
 
 ## Evaluation
 
