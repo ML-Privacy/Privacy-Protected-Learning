@@ -38,10 +38,22 @@ python Train.py cifar10 new
 
 ## Evaluation
 
-To evaluate my model on ImageNet, run:
+To evaluate the algorithm against DLG attacks, run these commands:
 
 ```eval
-python eval.py --model-file mymodel.pth --benchmark imagenet
+python DLG.py --data mnist --type new
+```
+and
+```eval
+python DLG.py --data cifar10 --type new
+```
+To obtain comparison results for the non-privacy base algorithm, run these commands:
+```eval
+python DLG.py --data mnist --type base
+```
+and
+```eval
+python DLG.py --data cifar10 --type base
 ```
 
 >📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).
