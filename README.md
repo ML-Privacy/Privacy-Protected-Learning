@@ -38,16 +38,12 @@ To evaluate the algorithm against DLG attacks, run these commands:
 
 ```eval
 python DLG.py --data mnist --type new
-```
-```eval
 python DLG.py --data cifar10 --type new
 ```
 
 To obtain comparison results for the non-privacy base algorithm, run these commands:
 ```eval
 python DLG.py --data mnist --type base
-```
-```eval
 python DLG.py --data cifar10 --type base
 ```
 
