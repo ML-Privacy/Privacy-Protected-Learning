@@ -17,8 +17,8 @@ conda create --name <name of env> --file requirements.txt
 To train the base models for comparison, run these commands:
 
 ```train
-python Train.py mnist base
-python Train.py cifar10 base
+python Train.py --data mnist --type base
+python Train.py --data cifar10 --type base
 ```
 > (train the model for the mnist and cifar10 datasets, respectively)
 
@@ -26,8 +26,8 @@ python Train.py cifar10 base
 
 To train the privacy protected models, run these commands:
 ```train
-python Train.py mnist new
-python Train.py cifar10 new
+python Train.py --data mnist --type new
+python Train.py --data cifar10 --type new
 ```
 >(train the model for the mnist and cifar10 datasets, respectively)
 
