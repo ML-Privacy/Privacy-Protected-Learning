@@ -1,6 +1,6 @@
 # Privacy Protected Machine Learning Optimization
 
-This repository is the official implementation of [Name of Paper](https://link.com). 
+This repository is the official implementation of Collaborative Learning with Privacy Protection, Provable Accuracy, and  Communication Efficiency 
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
