@@ -59,6 +59,6 @@ Our model achieves the following performance on :
 
 | Algorithm name         | Top 1 Accuracy (mnist, CNN) | Top 1 Accuracy (cifar-10, ResNet-20)|
 | ------------------ |---------------- | -------------- |
-|Base Algorithm|     94.36%         |      72.16%       |
+|Conventional Algorithm|     94.36%         |      72.16%       |
 |Privacy Protection Algorithm|     98.66%         |      76.51%       |
 
