@@ -13,7 +13,7 @@ conda env create -f environment.yml
 ```
 > The requirements.txt file is also avaliable
 ## Training
-> Note that the model training is how the algorithm is evaluated through validation testing as iterations increase.
+> Note that the model training is how the algorithm is evaluated through validation testing as iterations increase. Additionally, results were obtained from the average of 100 training runs for mnist and 25 runs for cifar10.
 
 To train the base models for comparison, run these commands:
 
