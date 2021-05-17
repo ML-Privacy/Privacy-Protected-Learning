@@ -13,6 +13,7 @@ conda env create -f environment.yml
 ```
 > The requirements.txt file is also avaliable
 ## Training
+> Note that the model training is how the algorithm is evaluated through validation testing as iterations increase.
 
 To train the base models for comparison, run these commands:
 
