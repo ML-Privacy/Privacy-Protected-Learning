@@ -56,5 +56,9 @@ Our model achieves the following performance on :
 |Conventional Algorithm|     94.36%         |      72.16%       |
 |Privacy Protection Algorithm|     98.66%         |      76.51%       |
 
+![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/cifar10_conventional.jpg)
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/cifar10_proposed.jpg)
+
+![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/mnist_conventional.jpg)
+![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/mnist_proposed.jpg)
 
