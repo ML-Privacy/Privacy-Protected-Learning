@@ -61,10 +61,10 @@ Our model achieves the following performance on :
 
 ### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
 
-| Model name         | Top 1 Accuracy (mnist) | Top 1 Accuracy (cifar-10)|
+| Algorithm name         | Top 1 Accuracy (mnist, CNN) | Top 1 Accuracy (cifar-10, ResNet-20)|
 | ------------------ |---------------- | -------------- |
 |Base Algorithm|     94.36%         |      72.16%       |
-|Privacy-protection Algorithm|     98.66%         |      76.51%       |
+|Privacy Protection Algorithm|     98.66%         |      76.51%       |
 
 
 
