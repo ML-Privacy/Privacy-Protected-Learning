@@ -9,9 +9,9 @@ This repository is the official implementation of Collaborative Learning with Pr
 To install requirements via anaconda utilize:
 
 ```setup
-conda create --name <name of env> --file requirements.txt
+conda env create -f environment.yml
 ```
-
+> The requirements.txt file is also avaliable
 ## Training
 
 To train the base models for comparison, run these commands:
