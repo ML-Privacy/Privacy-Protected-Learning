@@ -48,7 +48,7 @@ python DLG.py --data cifar10 --type base
 
 ## Results
 
-Our model achieves the following performance on :
+Our algorithm gave comparable accuracy performance as shown:
 
 
 | Algorithm name         | Top 1 Accuracy (mnist, CNN) | Top 1 Accuracy (cifar-10, ResNet-20)|
