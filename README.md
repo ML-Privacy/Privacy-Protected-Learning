@@ -46,12 +46,6 @@ python DLG.py --data mnist --type base
 python DLG.py --data cifar10 --type base
 ```
 
-## Pre-trained Models
-
-You can download pretrained models here:
-
-
-
 ## Results
 
 Our model achieves the following performance on :
