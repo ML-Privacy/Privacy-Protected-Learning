@@ -56,7 +56,7 @@ Our algorithm gave comparable accuracy performance as shown:
 |Conventional Algorithm|     94.36%         |      72.16%       |
 |Privacy Protection Algorithm|     98.66%         |      76.51%       |
 
-### DLG Results
+### DLG Results (mnist)
 
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/mnist_conventional.jpg)
 > Conventional algorithm against DLG attacks
@@ -68,7 +68,7 @@ Our algorithm gave comparable accuracy performance as shown:
 > Conventional Algorithm vs. Proposed Algorithm MSE Over Time
 
 
-
+### DLG Results (cifar-10)
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/cifar10_conventional.jpg)
 > Conventional algorithm against DLG attacks
 
