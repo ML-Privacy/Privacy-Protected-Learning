@@ -33,6 +33,7 @@ python Train.py --data cifar10 --type new
 >(train the model for the mnist and cifar10 datasets, respectively)
 
 ## Evaluation
+> Before running the commands make two folders called "mnist" and "cifar10".
 
 To evaluate the privacy algorithm against DLG attacks, run these commands:
 
