@@ -60,8 +60,10 @@ Our model achieves the following performance on :
 
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/mnist_conventional.jpg)
 > Conventional algorithm against DLG attacks
+
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/mnist_proposed.jpg)
 > Proposed algorithm against DLG attacks
+
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/mnist_MSE.jpg)
 > Conventional Algorithm vs. Proposed Algorithm MSE Over Time
 
@@ -69,8 +71,10 @@ Our model achieves the following performance on :
 
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/cifar10_conventional.jpg)
 > Conventional algorithm against DLG attacks
+
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/cifar10_proposed.jpg)
 > Proposed algorithm against DLG attacks
+
 ![alt text](https://github.com/ML-Privacy/Privacy-Protected-Learning/blob/main/images/cifar10_MSE.jpg)
 > Conventional Algorithm vs. Proposed Algorithm MSE Over Time
 
