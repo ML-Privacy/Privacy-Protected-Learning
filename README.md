@@ -63,7 +63,9 @@ Our model achieves the following performance on :
 
 | Model name         | Top 1 Accuracy  | Top 5 Accuracy |
 | ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
+|Privacy-protection Algorithm|     85%         |      95%       |
+|Base Algorithm|     85%         |      95%       |
+
 
 >📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
 
